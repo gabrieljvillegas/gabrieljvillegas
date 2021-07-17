@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Gabriel</h1>
+<h1 align="center" background-color="393130">Hola 👋, soy Gabriel</h1>
 <h4>Desarrollador Junior. En búsqueda activa de mi primer empleo IT.</h4>
 <h4>Apasionado de la tecnología y en constante capacitación.</h4>
 
