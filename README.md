@@ -9,7 +9,7 @@ En búsqueda de oportunidades para formar parte de una organización prestigiosa
 
 ```js 
  let aprendizajeEnCurso = {
-    Henry: "Desarrollador Full Stack . Programa intensivo de +700 horas basado en prácticas y proectos reales",
+    Henry: "Desarrollador Full Stack . Programa intensivo de +700 horas basado en prácticas y proyectos reales",
     ICARO: "Desarollador Full Stack."
  };
  
